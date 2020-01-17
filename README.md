@@ -14,4 +14,4 @@ If you are using the (cheap) stock bed surface that ships with the printer, the 
 The temperature modified gcode is [here](CHEP_Ender_3_bed_level_hotbed.gcode).
 
 ### Hot and Fast Version
-Gcode that combines the two previous modifications is here [here](CHEP_Ender_3_bed_level_hot_fast.gcode).
+Gcode that combines the two previous modifications is  [here](CHEP_Ender_3_bed_level_hot_fast.gcode).
