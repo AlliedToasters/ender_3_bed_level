@@ -43,6 +43,10 @@ G1 Z5 ; Lift Z axis
 G1 X32 Y36 ; Move to Position 1
 G1 Z0
 M0 ; Pause print
+G1 Z5 ; Lift Z axis
+G1 X117 Y121 ; Move to Position 5
+G1 Z0
+M0 ; Pause print
 
 G28;
 M84 ; disable motors
