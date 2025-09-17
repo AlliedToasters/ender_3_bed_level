@@ -2,9 +2,9 @@
 ; Modified by elproducts CHEP FilamentFriday.com
 ; Modified by AlliedToasters to control speed, bed temperature
 
-M140 S45 ; set bed temp
+M140 S60 ; set bed temp
 G90
-M190 S45 ; wait for bed to reach temp
+M190 S60 ; wait for bed to reach temp
 
 G28 ; Home all axis
 G1 Z5 F10000 ; Lift Z axis, set travel speed
